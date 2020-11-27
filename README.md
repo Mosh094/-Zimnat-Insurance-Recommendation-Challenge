@@ -1,0 +1,2 @@
+# -Zimnat-Insurance-Recommendation-Challenge
+The project challenge: for around 10,000 customers in the test set, you are given all but one of the products they own, and are asked to make predictions around which products are most likely to be the missing product. This same model can then be applied to any customer to identify insurance products that might be useful to them given their current profile.
